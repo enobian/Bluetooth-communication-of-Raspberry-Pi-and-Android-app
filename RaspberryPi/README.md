@@ -5,4 +5,5 @@
 - Detects if device is connected/disconnected and sends voltage value in ADC0804LCN input pins upon request.
 
 Based on PyBluez Bluetooth Python extension module and example code: RFCOMM-server.py
+
 Available here: https://github.com/karulis/pybluez
