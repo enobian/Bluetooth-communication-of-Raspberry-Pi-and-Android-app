@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VoltMeter BT</string>
+    <string name="enablebt">Enable BT</string>
+    <string name="disablebt">Disable BT</string>
+    <string name="scanbt">List devices</string>
+    <string name="measVoltage">Measure Voltage</string>
+</resources>
